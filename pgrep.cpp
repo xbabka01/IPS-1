@@ -1,3 +1,11 @@
+//Adam Venge xvenge00
+
+/**
+*  Prvy projekt na IPS spolocna praca 
+*  Peter Babka  xbabka01
+*  Adam  Venger xvenge00
+*/
+
 #include <stdio.h>
 #include<unistd.h>
 #include<thread>
